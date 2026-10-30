@@ -1,19 +1,7 @@
-# Part B3: User Stories and Acceptance Criteria
+# Part E2: References and Research Sources
 
-## User Story 1 (linked to FR2)
-* **Story:** *As a* GAP digital investor, *I want to* enter a Ringgit amount into an instant calculator, *so that* I can immediately see how many grams of gold I am purchasing before committing.
-* **Acceptance Criteria:**
-  1. Entering a valid numeric value into the RM field auto-populates the Gram field within 100 milliseconds.
-  2. Clearing the input field resets both currency and weight values to zero.
-
-## User Story 2 (linked to FR4)
-* **Story:** *As an* EPP installment buyer, *I want to* view a visual progress ring of my monthly payments, *so that* I can quickly track my remaining balance without calculating manual receipts.
-* **Acceptance Criteria:**
-  1. Clicking "EPP Center" displays all active installment contracts with completed percentages highlighted visually.
-  2. Selecting an active plan reveals an itemized schedule showing paid dates and upcoming due dates.
-
-## User Story 3 (linked to FR5)
-* **Story:** *As a* physical gold buyer, *I want to* complete my order using direct payment options, *so that* my order is confirmed instantly without needing to manually upload bank payment slips.
-* **Acceptance Criteria:**
-  1. Selecting FPX/Direct Debit directs the user to automated confirmation upon payment completion.
-  2. Order status automatically transitions from "Pending Payment" to "Processing" without admin slip review.
+1. Cooper, A., Reimann, R., Cronin, D., & Noessel, C. (2014). *About Face: The Essentials of Interaction Design* (4th ed.). John Wiley & Sons.
+2. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann.
+3. Norman, D. (2013). *The Design of Everyday Things: Revised and Expanded Edition*. Basic Books.
+4. Sauro, J., & Lewis, J. R. (2016). *Quantifying the User Experience: Practical Statistics for User Research* (2nd ed.). Morgan Kaufmann.
+5. World Wide Web Consortium (W3C). (2018). *Web Content Accessibility Guidelines (WCAG) 2.1*. W3C Recommendation.
