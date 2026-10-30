@@ -8,7 +8,7 @@
 | **FR2** | The system shall provide an interactive currency-to-weight converter for GAP top-ups. | Inputting a Ringgit amount (e.g., RM 100) must immediately calculate and display the exact gold gram equivalent based on the current rate. |
 | **FR3** | The system shall provide a unified asset dashboard displaying both digital GAP balances and physical vaulted inventory on a single screen. | Verify that the portfolio summary page separates digital weight from vaulted physical bars clearly. |
 | **FR4** | The system shall display a visual progress bar for all active EPP installment plans. | The user account page must accurately show completed vs. remaining payments (e.g., "Month 4 of 10 Paid — 40%"). |
-| **FR5** | The system shall support direct payment gateway execution (FPX/e-Wallet) during checkout. | Selecting FPX at checkout must route directly to payment completion without prompting for manual receipt image uploads. |
+
 
 ## B2. Non-Functional Requirements (NFRs)
 
