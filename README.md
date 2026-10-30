@@ -1,46 +1,45 @@
-# UI/UX Optimization and Redesign Proposal for Public Gold Ecosystem
+# Public Gold UI/UX Optimization and Redesign Proposal
 
-> **Course:** CSC649 — Special Topics in Computer Science  
-> **Assignment:** Problem Formulation, Requirements, and Technology Brief  
-> **Specialized Technology:** User Experience (UX) Architecture & Decision Support Systems (DSS)  
-> **Status:** In Progress (Ideation & Requirements Phase)  
+> CSC649 Assignment 1 proposal: a human-centered UI/UX and decision-support optimization for digital gold trading and installment management in the Public Gold context.
 
 ---
 
-## 📌 Project Overview
-Precious metals trading and digital micro-investing platforms have gained significant traction among retail investors seeking hedges against economic volatility. Public Gold serves as a major Malaysian ecosystem offering digital gold savings (GAP), physical bullion e-commerce, and structured installment purchase plans (Easy Payment Purchase - EPP).
+## Status
 
-This project presents a human-centered UI/UX optimization proposal aimed at streamlining transaction flows, modernizing the visual design system, unifying fragmented digital and physical asset management, and eliminating manual receipt slip verification bottlenecks.
-
----
-
-## 🚨 Problem Statement
-Retail investors utilizing the Public Gold platform face high cognitive fatigue and severe task friction due to visual clutter, fragmented navigation modules, and manual transaction verification methods. 
-
-Specifically, users attempting to transition between digital gold savings (GAP) and physical installment management (EPP) must navigate disconnected sub-interfaces and manually upload bank transfer payment slips. This cumbersome process delays transaction fulfillment, increases user drop-offs, and reduces user trust during time-sensitive market price fluctuations.
+Draft - repository is private while the assignment is being prepared.
 
 ---
 
-## 🎯 Key Project Objectives
-1. **Analyze User Requirements & Pain Points:** Conduct heuristic evaluations and user journey mapping on current Public Gold web and mobile touchpoints.
-2. **Re-architect Information Architecture:** Unify GAP digital savings, physical bullion shopping, and EPP installment tracking into a single, intuitive dashboard hub.
-3. **Design High-Fidelity Prototypes:** Create responsive web and mobile prototypes in Figma featuring live spot price tickers, instant Ringgit-to-Gram conversion, visual EPP progress rings, and a 3-step automated payment checkout.
-4. **Evaluate Usability Improvements:** Formulate a testing framework using the System Usability Scale (SUS) to evaluate task completion speed and contrast accessibility (WCAG 2.1).
+## Problem
+
+Retail gold investors and installment buyers experience cognitive fatigue, fragmented navigation across digital savings (GAP) and physical plans (EPP), and severe transaction bottlenecks caused by manual payment receipt slip uploads. This project proposes a streamlined, human-centered UI/UX and decision-support redesign for the Public Gold platform context.
 
 ---
 
-## 📂 Repository Structure
+## Specialised technology
 
-```text
-public-gold-ux-redesign/
-│
-├── README.md                      # Primary repository overview and status
-├── LICENSE                        # Project license
-├── assets/                        # Diagrams, wireframes, and visual media
-│   └── fishbone-diagram.png       # Root cause analysis diagram
-│
-└── docs/                          # Core assignment documentation in Markdown
-    ├── problem-statement.md       # Detailed Part A (Formulation, Users & Scope)
-    ├── requirements.md            # Part B1 (FRs) & Part B2 (NFRs)
-    ├── user-stories.md            # Part B3 (User Stories & Acceptance Criteria)
-    └── specialized-technology.md  # Part C (UX/DSS Concepts, Tools & Fit)
+User Experience (UX) Architecture and Decision Support Systems (DSS)
+
+---
+
+## Documents
+
+* [Problem statement and scope](docs/problem-statement.md)
+* [Requirements](docs/requirements.md)
+* [User stories](docs/user-stories.md)
+* [Technology brief](docs/technology-brief.md)
+* [Research sources](docs/research-sources.md)
+
+---
+
+## Author
+
+MUHAMMAD HAFIZ BIN MD SHAHILI  
+CSC649 - Special Topics in Computer Science  
+GitHub: [https://github.com/HafizUITM](https://github.com/HafizUITM)
+
+---
+
+## Note on GenAI
+
+Gemini was used only within the assignment rules (Tahap 3 - Kolaborasi Hibrid). All facts, requirements, and sources must be checked, and all final writing must be understood and revised by the student.
