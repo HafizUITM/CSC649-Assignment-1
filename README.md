@@ -40,6 +40,6 @@ GitHub: [https://github.com/HafizUITM](https://github.com/HafizUITM)
 
 ---
 
-## Note on GenAI
+## Note on GEMINI
 
 Gemini was used only within the assignment rules (Tahap 3 - Kolaborasi Hibrid). All facts, requirements, and sources must be checked, and all final writing must be understood and revised by the student.
