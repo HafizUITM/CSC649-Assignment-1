@@ -3,6 +3,10 @@
 ## A1. Problem Statement
 Retail investors utilizing the Public Gold platform face high cognitive fatigue and severe task friction due to visual clutter, fragmented navigation modules, and manual transaction verification methods. Specifically, users attempting to transition between digital gold savings (GAP) and physical installment management (EPP) must navigate disconnected sub-interfaces and manually upload bank transfer payment slips. This cumbersome process delays transaction fulfillment, increases user drop-offs, and reduces user trust during time-sensitive market price fluctuations.
 
+* **Design objective:** How might we create a unified, low-effort experience that lets users move between GAP and EPP and complete a purchase or payment in no more than three steps?
+
+* **Success measures:** Task completion rate, time on task for key flows, and a System Usability Scale (SUS) score above 68.
+
 ## A2. Users and Scope
 
 ### Target Users & Stakeholders
