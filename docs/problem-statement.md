@@ -14,5 +14,5 @@ Retail investors utilizing the Public Gold platform face high cognitive fatigue 
 ### Project Scope
 * **In-Scope:** Heuristic evaluation, fishbone root-cause mapping, Information Architecture (IA) restructuring, high-fidelity Figma web/mobile wireframes, 3-step checkout workflow design, and System Usability Scale (SUS) evaluation planning.
 * **Out-of-Scope:** Full-stack backend database engineering, live banking payment gateway API deployment, and production server hosting.
-* **Assumptions and constraints:**Payment verification is simulated in the prototype. Automated verification is treated as a future integration.
+* **Assumptions and constraints:** Payment verification is simulated in the prototype. Automated verification is treated as a future integration.
 The branch locator and delivery tracking are secondary and will be addressed only if time allows.
